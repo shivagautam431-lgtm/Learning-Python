@@ -1,4 +1,5 @@
 # This program takes information from the user
+
 name = input("Enter your name: ")
 college = input("Enter your college name: ")
 
