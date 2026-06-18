@@ -1,3 +1,4 @@
+# Correct code
 name = input("Enter your name: ")
 college = input("Enter your college name: ")
 
